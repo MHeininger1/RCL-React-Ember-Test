@@ -1,3 +1,3 @@
-import TestComponent from "./TestComponent/TestComponent";
+import TestReactInEmber from "./TestReactInEmber/TestReactInEmber";
 
-export { TestComponent };
+export { TestReactInEmber };
